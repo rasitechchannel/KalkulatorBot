@@ -3856,7 +3856,7 @@ Server3 : @intellius3bot
       );
       break;
     case "/id":
-      sendMessage(chatId, "ID Anda : `" + msg.from.id + "`", {
+      sendMessage(chatId, "123 ID Anda : `" + msg.from.id + "`", {
         parse_mode: "markdownv2",
       });
       break;
